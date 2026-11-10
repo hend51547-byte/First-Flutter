@@ -4,7 +4,21 @@
 
 ## Screenshots
 
-### الشاشة الرئيسية
+### الشاشة الأولى
 
 
-![الشاشة الرئيسية](screenshot/home.png)
+![First](screenshot/First.png.png)
+
+
+
+### الشاشة الثانية
+
+
+![Second](screenshot/Second.png.png)
+
+
+
+### Bonus
+
+
+![Bonus](screenshot/Bonus.png.png)
